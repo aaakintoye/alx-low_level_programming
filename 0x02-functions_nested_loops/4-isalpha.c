@@ -17,8 +17,7 @@ int _isalpha(int c)
 	}
 	else
 	{
-	else
-	}
+	
 		return (0);
 	}
 }
