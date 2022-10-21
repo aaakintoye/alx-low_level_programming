@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_times_tabel - prints the n times table, starting with 0.
+ * print_times_table - prints the n times table, starting with 0.
  * @n: the integer to be added.
  *
  * Return: Number as matrix
